@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Egg-Of-Glory999 (AKA Jackson Cogbill)
+- 👋 Hi, I’m @Egg-Of-Glory999
 - 👀 I’m interested in just making stuff
 - 🌱 I’m currently learning how to make an OS
 - 💞️ I’m looking to collaborate on Windows 8.12 Crying Edition (an obvious joke)
